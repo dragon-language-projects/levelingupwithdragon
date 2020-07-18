@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4c36370-3f48-4b7c-b456-ef5631d3f4c9</dc:identifier>
+        <dc:title>Level-up-your-programming-with-core-Dragon (1)</dc:title>
+        <dc:creator opf:file-as="Jilani, avvesh" opf:role="aut">avvash Jilani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>jilinai avvesh</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>dragon</dc:subject>
+        <meta content="{&quot;avvash Jilani&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1st" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2020-07-18T18:00:52.920000+00:00" name="calibre:timestamp"/>
+        <meta content="Level-up-your-programming-with-core-Dragon (1)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Level-up-your-programming-with-core-Dragon (1) - avvash Jilani.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
